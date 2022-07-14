@@ -1,7 +1,7 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:whatsapp_ui/features/landing/screens/landing_screen.dart';
-import 'package:whatsapp_ui/route.dart';
+import 'package:whatsapp_ui/router.dart';
 import 'package:whatsapp_ui/utils/colors.dart';
 import 'package:whatsapp_ui/firebase_options.dart';
 import 'package:whatsapp_ui/screens/mobile_layout_screen.dart';
